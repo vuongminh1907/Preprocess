@@ -10,7 +10,10 @@
 - Full body
 
 # Output samples
+## Origin image
 ![Sample 000](assets/hello.png)
+## Model wearing
 ![Sample 000](assets/mask_new.png)
+## Cloth Only
 ![Sample 024](assets/masked_img.png)
 
