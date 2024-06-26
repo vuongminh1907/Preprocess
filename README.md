@@ -4,4 +4,13 @@
 - Run `python process.py --image 'cloth.jpg' --position 'Upper body'` .
 - Outputs will be saved in `output` folder.
 
+# Option for --position
+- Upper body
+- Lower body
+- Full body
+
+# Output samples
+![Sample 000](assets/hello.png)
+![Sample 000](assets/mask_new.png)
+![Sample 024](assets/masked_img.png)
 
